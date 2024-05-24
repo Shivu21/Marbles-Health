@@ -3,6 +3,7 @@
 Assignment of Dynamic Form
 
 ![Project Screenshot](assets/images/project_screenshot.png)
+![Project Screenshot](assets/images/project_screenshot2.png)
 
 A new Flutter project.
 
